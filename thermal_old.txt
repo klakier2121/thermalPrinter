@@ -1,0 +1,12 @@
+448 dot
+
+-1,2,3 zasilanie grza³ki
+-4,5,6 GDN
+-7 VCC 5V do zasilania logiki
+-8,9,10 odpowiednio strobe 1,2,3
+-11- CP -sygna³ zegarowy
+-12 latch -zatrzask
+-13 DI-wejœcie danych
+-14 -wyjœcie termistora do pomiaru temperatury grza³ki
+-15 GDN lub wolne?
+-16 DO- wyjœcie danych
